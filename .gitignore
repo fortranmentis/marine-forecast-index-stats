@@ -1,0 +1,25 @@
+# Local source workbooks and generated deliverables
+*.xlsx
+*.xls
+*.csv
+*.html
+*.hwpx
+*.hwp
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local publication checks and staging copies
+.publication-validation/
+.publication-upload/
+
+# Editors and operating-system metadata
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
